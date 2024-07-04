@@ -1,3 +1,3 @@
-const sum = 5 + 6
-
-console.log(sum)
+const x = 5 
+const y = 6 
+console.log(x+y)
